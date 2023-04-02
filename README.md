@@ -121,6 +121,7 @@ Open teminal
 	type your message
 ```	
 5.3. Display message
+
 Open teminal
 ```bash
 	cd /opt/kafka
