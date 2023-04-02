@@ -31,7 +31,7 @@ Add these lines to defide JVM and JRE
 	export JAVA_HOME=/usr/lib/jvm/jre-1.8.0-openjdk
 	export JRE_HOME=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.362.b08-1.el7_9.x86_64/jre
 
-2.4. Reload the profile to put your changes into effect:
+2.4. Reload the profile
 ```bash   
      source /etc/profile
 ```
