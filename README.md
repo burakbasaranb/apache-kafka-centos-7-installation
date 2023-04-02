@@ -21,6 +21,7 @@ The output should resemble:
 	OpenJDK 64-Bit Server VM (build 25.91-b14, mixed mode)
 
 2.3. You need JVM (Java Virtual Machine) and Java Runtime Environment (JRE) for Zookeeper
+
 Open "profile" file
 	
     /etc/profile 
