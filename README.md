@@ -89,7 +89,7 @@ Open a new terminal
 ```
 How can i understand Kafta start?
 	
-    You will see ın teminal "INFO [KafkaServer id=0] started (kafka.server.KafkaServer)" and wait
+    You will see in teminal "INFO [KafkaServer id=0] started (kafka.server.KafkaServer)" and wait
 
 #### 5. TEST KAFKA
 
